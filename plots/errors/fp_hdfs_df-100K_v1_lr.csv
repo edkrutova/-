@@ -1,0 +1,31 @@
+index,label,text
+5231,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_001900_0/part-01900. blk_4146694925748291107
+7762,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000319_0/part-00319. blk_-5229123709973399450
+7774,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000109_0/part-00109. blk_8799440192229167223
+8217,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000122_0/part-00122. blk_4102218401323302721
+9517,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000075_0/part-00075. blk_-3212255896376689059
+9857,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000061_0/part-00061. blk_-8017195075939405000
+16261,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001752_0/part-01752. blk_-8485463373474875218
+16295,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001574_0/part-01574. blk_-1066467021938946312
+16451,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001645_0/part-01645. blk_8042499748012885626
+29713,0,dfs.DataNode$DataXceiver: Receiving block blk_5464690886209994994 src: /10.251.71.68:48419 dest: /10.251.71.68:50010
+32522,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000663_0/part-00663. blk_1957996702647414480
+34621,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001437_0/part-01437. blk_2108974392643374770
+35828,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001683_0/part-01683. blk_-5665837793047821584
+37632,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000151_0/part-00151. blk_-3505881234522806566
+39126,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000200_0/part-00200. blk_6454440889482733310
+39752,0,dfs.DataNode$DataXceiver: Receiving block blk_6288400410772430826 src: /10.251.42.191:46812 dest: /10.251.42.191:50010
+47071,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_000731_0/part-00731. blk_-5453418529197836742
+49745,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_001658_0/part-01658. blk_-1862107842490744779
+53398,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000038_0/part-00038. blk_392634420814287945
+57589,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001972_0/part-01972. blk_7485233221570495224
+61390,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_000303_0/part-00303. blk_4472505954130651847
+63212,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001530_0/part-01530. blk_-2275427485422282302
+64837,0,dfs.DataNode$DataXceiver: Receiving block blk_2404612474509200007 src: /10.251.71.68:37108 dest: /10.251.71.68:50010
+70119,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_200811101024_0011_m_000259_0/part-00259. blk_669858891703825955
+71616,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_200811101024_0011_m_000742_0/part-00742. blk_5645600894863146708
+73702,0,dfs.DataNode$DataXceiver: Receiving block blk_5469016071345470468 src: /10.251.71.68:56449 dest: /10.251.71.68:50010
+76862,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001552_0/part-01552. blk_3533855281485623876
+83699,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000810_0/part-00810. blk_-8516628247665092262
+84978,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001207_0/part-01207. blk_1707127200308582769
+86939,0,dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001843_0/part-01843. blk_7014889983580842231

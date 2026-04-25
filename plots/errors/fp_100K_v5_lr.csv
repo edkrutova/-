@@ -1,0 +1,31 @@
+index,label,text
+8699,0,RAS KERNEL FATAL rts: X message header: expecting type N instead of type N (softheader=00a8ed88 N N X PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+9059,0,RAS KERNEL FATAL external input interrupt enable...0
+9857,0,RAS APP FATAL ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: X file descriptor
+13300,0,"RAS KERNEL INFO NFS Mount failed on bglio872, slept N seconds, retrying (1)"
+20056,0,RAS KERNEL FATAL external input interrupt enable...1
+21632,0,RAS APP FATAL ciod: Error creating node map from file /home/williams/miranda/src/res-apc-strong2-bgl-8192-8Kmap-15:16:17Tue19Jul05/../../sles_9_ppc64/mapfile/8k_64x128x1_8x4x2.map: X file descriptor
+41567,0,RAS KERNEL FATAL external input interrupt enable...0
+44759,0,RAS KERNEL FATAL rts internal error
+45783,0,RAS KERNEL FATAL rts: X message header: cpu N invalid (softheader=7ffffc30 N N X PSR0=00000000 PSR1=00000000 PRXF=0000002a PIXF=00000007
+46776,0,"RAS KERNEL INFO NFS Mount failed on bglio570, slept N seconds, retrying (2)"
+49456,0,RAS KERNEL FATAL external input interrupt enable...0
+49618,0,RAS KERNEL FATAL external input interrupt enable...0
+53643,0,RAS KERNEL FATAL external input interrupt enable...0
+54274,0,MONITOR FAILURE Temperature Over Limit on link card
+54756,0,RAS KERNEL FATAL external input interrupt enable...1
+59471,0,MONITOR FAILURE Temperature Over Limit on link card
+66387,0,RAS KERNEL FATAL external input interrupt enable...0
+67915,0,"RAS KERNEL INFO NFS Mount failed on bglio403, slept N seconds, retrying (1)"
+69754,0,RAS KERNEL FATAL rts internal error
+71925,0,RAS KERNEL FATAL rts: X message header: cpu N invalid (softheader=10010000 X N X PSR0=00000000 PSR1=00000000 PRXF=0000002a PIXF=00000007
+73345,0,RAS KERNEL FATAL rts: X message header: expecting type N instead of type N (softheader=00a8ed88 N N X PSR0=10011f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+75194,0,RAS KERNEL FATAL external input interrupt enable...0
+75784,0,RAS KERNEL FATAL rts internal error
+77699,0,RAS KERNEL FATAL external input interrupt enable...0
+78899,0,RAS APP FATAL ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required
+83072,0,"RAS KERNEL INFO NFS Mount failed on bglio93, slept N seconds, retrying (1)"
+83638,0,RAS KERNEL FATAL rts: X message header: expecting type N instead of type N (softheader=00a8ed88 N N X PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+83735,0,RAS KERNEL FATAL external input interrupt enable...0
+92283,0,RAS KERNEL FATAL external input interrupt enable...0
+94167,0,RAS KERNEL FATAL external input interrupt enable...0

@@ -1,0 +1,31 @@
+index,label,text
+77,0,RAS KERNEL FATAL byte ordering exception.....................0
+83,0,"RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+106,0,RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+187,0,RAS KERNEL FATAL program interrupt: fp compare...............0
+221,0,"RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+387,0,RAS APP FATAL ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory
+395,0,"RAS APP FATAL ciod: Error loading /bgl/apps/swl-prep/rky-swl/MPI-PERF/IMB/perf_tests/IMB-MPI1.22MB: invalid or missing program image, Permission denied"
+428,0,"RAS KERNEL INFO N total interrupts. N critical input interrupts. N microseconds total spent on critical input interrupts, N microseconds max time in X critical input interrupt."
+442,0,"RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+478,0,RAS KERNEL INFO floating point operation....................0
+491,0,"RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+498,0,"RAS APP FATAL ciod: Error loading /bgl/apps/linpack2/xhpl_241_no_fold: invalid or missing program image, No such file or directory"
+627,0,RAS APP FATAL ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory
+630,0,RAS KERNEL FATAL debug interrupt enable............0
+683,0,RAS APP FATAL ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/times) failed: No such file or directory
+714,0,"RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, X format error"
+722,0,"RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory"
+733,0,"RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+744,0,RAS KERNEL INFO program interrupt: privileged instruction...0
+780,0,RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.15) failed: No such file or directory
+788,0,DISCOVERY WARNING Node card is not fully functional
+821,0,"DISCOVERY ERROR Found invalid node ecid in processor card slot J06, ecid N"
+836,0,"RAS APP FATAL ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory"
+863,0,"RAS APP FATAL ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image, No such file or directory"
+870,0,"RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+880,0,RAS APP FATAL ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied
+893,0,RAS KERNEL FATAL floating point operation....................0
+912,0,RAS KERNEL INFO ciod: generated N corefiles for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/new_vnm.rts
+943,0,DISCOVERY SEVERE Can not get assembly information for node card
+978,0,"RAS APP FATAL ciod: Error loading /bgl/apps/swl-prep/rky-swl/MPI-PERF/IMB/perf_tests/IMB-MPI1.5124KB: invalid or missing program image, No such file or directory"

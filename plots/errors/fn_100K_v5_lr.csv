@@ -1,0 +1,4 @@
+index,label,text
+22727,1,RAS KERNEL FATAL Power deactivated: R05-M0-N6
+33401,1,MONITOR FAILURE While inserting monitor info into X caught java.lang.NullPointerException
+58623,1,RAS KERNEL FATAL Power Good signal deactivated: R73-M1-N0. X service action may X required.
